@@ -1,0 +1,26 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Northern Kentucky Stargazers",
+    "description": "",
+    "home_page_url": "https://knightlightdigital.github.io/nkstargazers",
+    "feed_url": "https://knightlightdigital.github.io/nkstargazers/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "David K"
+    },
+    "items": [
+        {
+            "id": "https://knightlightdigital.github.io/nkstargazers/this-is-it.html",
+            "url": "https://knightlightdigital.github.io/nkstargazers/this-is-it.html",
+            "title": "This is it",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://knightlightdigital.github.io/nkstargazers/media/posts/1/20230923-veil-nebula.png\" alt=\"\" width=\"3369\" height=\"1895\" sizes=\"100vw\" srcset=\"https://knightlightdigital.github.io/nkstargazers/media/posts/1/responsive/20230923-veil-nebula-xs.png 300w ,https://knightlightdigital.github.io/nkstargazers/media/posts/1/responsive/20230923-veil-nebula-sm.png 480w ,https://knightlightdigital.github.io/nkstargazers/media/posts/1/responsive/20230923-veil-nebula-md.png 768w ,https://knightlightdigital.github.io/nkstargazers/media/posts/1/responsive/20230923-veil-nebula-lg.png 1024w ,https://knightlightdigital.github.io/nkstargazers/media/posts/1/responsive/20230923-veil-nebula-xl.png 1360w ,https://knightlightdigital.github.io/nkstargazers/media/posts/1/responsive/20230923-veil-nebula-2xl.png 1600w\"></figure>",
+            "author": {
+                "name": "David K"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-09-25T10:27:30-04:00",
+            "date_modified": "2023-09-25T10:27:30-04:00"
+        }
+    ]
+}

@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://knightlightdigital.github.io/nkstargazers/sitemap.xml
